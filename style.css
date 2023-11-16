@@ -1,0 +1,123 @@
+
+        *{
+            margin: 0px;
+        }
+        .div1{
+            position: relative;
+        }
+        .div2{
+            width: 1520px;
+            height: 720px;
+            background-color:#280659 ;
+           
+        }
+        .div3{
+            position:relative;
+            width: 1360px;
+            height: 560px;
+            top: 80px;
+            left: 80px;
+            right:80px;
+            bottom: 80px;
+            background-color:#660F56 ;
+            z-index: 2;
+        }
+        .div4{
+            width: 1520px;
+            height: 720px;
+            background-color:#355070 ;
+           
+        }
+        .im1{
+            width: 1520px;
+            height: 720px;
+            filter: blur(7px);
+        }
+        .im2{
+            width: 970px;
+            height: 500px;
+            position: absolute;
+            top: 150px;
+            left: 440px;
+        }
+        .im3{
+            width: 1520px;
+            height: 720px;
+            position: absolute;
+            filter: blur(5px);
+        }
+        .head1{
+            position: absolute;
+            font-weight: 900;
+            font-size: 135px;
+            top: 150px;
+            left: 250px;
+            z-index: 2;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .head2{
+            text-align: center;
+            font-size: 60px;
+            color: bisque;
+        }
+        .head3{
+            
+            position:absolute;
+            z-index: 2;
+            text-align: center;
+            font-size: 60px;
+            color: bisque;
+            left:430px;
+        }
+        .text1{
+            position: absolute;
+            font-family: 'Pacifico', cursive;
+            top: 500px;
+            left: 250px;
+            font-size: 40px;
+            color:black;
+            z-index: 2;
+        }
+        .button1{
+            position: absolute;
+            top: 670px;
+            left: 70px;
+            font-size: 30px;
+            color:black;
+            background-color:rgb(134, 134, 176);
+            border-style: none;
+            font-family:'Times New Roman', Times, serif;
+            z-index: 2;
+        }
+        .button2{
+            position: absolute;
+            top: 670px;
+            left: 280px;
+            font-size: 30px;
+            color:black;
+            background-color:rgb(134, 134, 176);
+            border-style: none;
+            font-family:'Times New Roman', Times, serif;
+            z-index: 2;
+        }
+        .button3{
+           
+            font-size: 30px;
+            color:black;
+            background-color:#AE2D68;
+            border-style: none;
+            font-family:'Times New Roman', Times, serif;
+            z-index: 2;
+        }
+        .form{
+            color:burlywood;
+            font-size: 26px;
+        }
+        .l1{
+            position: relative;
+            top: 100px;
+            left:40px;
+            z-index: 2;
+            margin: 30px;
+        }
+    
